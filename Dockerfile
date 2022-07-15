@@ -1,7 +1,7 @@
 FROM ghcr.io/linuxserver/baseimage-rdesktop-web:focal
 
-LABEL org.opencontainers.image.authors="github@sytone.com"
-LABEL org.opencontainers.image.source="https://github.com/sytone/obsidian-remote"
+LABEL org.opencontainers.image.authors="elliot-forty-two"
+LABEL org.opencontainers.image.source="https://github.com/elliot-forty-two/obsidian-remote"
 LABEL org.opencontainers.image.title="Container hosted Obsidian MD"
 LABEL org.opencontainers.image.description="Hosted Obsidian instance allowing access via web browser"
 
